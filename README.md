@@ -1,3 +1,3 @@
-# React Native Voice Memo
+## React Native Voice Memo
 
-### A mobile application that replicates the IOS voice memo app.
+A simple cross platform (iOS and Android) React Native voice memo app. 
